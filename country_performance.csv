@@ -1,0 +1,109 @@
+country,total_revenue,total_rentals,unique_customers
+India,6032.79,1421,60
+China,5247.04,1296,53
+United States,3694.27,869,36
+Japan,3121.52,748,31
+Mexico,2984.82,718,30
+Brazil,2919.19,681,28
+Russian Federation,2765.62,638,28
+Philippines,2219.7,530,20
+Turkey,1498.49,351,15
+Indonesia,1352.69,331,14
+Nigeria,1314.92,308,13
+Argentina,1298.8,320,13
+Taiwan,1155.1,290,10
+South Africa,1069.46,254,11
+Iran,877.96,204,8
+United Kingdom,848.97,203,9
+Poland,786.16,184,8
+Italy,753.26,174,7
+Germany,741.24,176,7
+Vietnam,676.45,155,6
+Ukraine,675.53,147,6
+Colombia,661.54,146,6
+Egypt,659.48,152,6
+Venezuela,632.4300000000001,157,7
+Canada,559.7,130,5
+Netherlands,557.73,127,5
+South Korea,527.77,123,5
+Spain,513.8,120,5
+Yemen,473.93,107,4
+Pakistan,473.84000000000003,116,5
+Saudi Arabia,452.94,106,5
+Peru,407.01,99,4
+Thailand,401.08,92,3
+Israel,379.13,87,4
+Ecuador,369.18,82,3
+Bangladesh,353.19,81,3
+Algeria,349.18,82,3
+France,334.12,88,4
+Malaysia,330.23,77,3
+Tanzania,322.22,78,3
+Mozambique,315.25,75,3
+United Arab Emirates,305.25,75,3
+Dominican Republic,304.26,74,3
+Chile,303.34,66,3
+Austria,284.3,70,3
+Morocco,274.35,65,3
+Paraguay,273.4,60,3
+Belarus,271.36,64,2
+Latvia,249.43,57,2
+Switzerland,248.41,59,3
+Kenya,245.49,51,2
+Yugoslavia,233.49,51,2
+Puerto Rico,224.48000000000002,52,2
+Romania,218.42000000000002,58,2
+Runion,211.55,45,1
+French Polynesia,205.51999999999998,48,2
+Greece,204.54,46,2
+Sudan,202.51,49,2
+Azerbaijan,198.53,47,2
+Bulgaria,194.52,48,2
+Kazakstan,192.51,49,2
+Angola,187.55,45,2
+Cameroon,186.49,51,2
+Myanmar,179.53,47,2
+Cambodia,179.51,49,2
+Bolivia,178.56,44,2
+"Congo, The Democratic Republic of the",168.57999999999998,42,2
+Oman,161.56,44,2
+Holy See (Vatican City State),146.68,32,1
+Nauru,143.7,30,1
+Sweden,139.67,33,1
+Czech Republic,132.72,28,1
+Moldova,127.66,34,1
+Turkmenistan,126.74,26,1
+Chad,122.72,28,1
+Malawi,121.73,27,1
+Zambia,121.7,30,1
+"Virgin Islands, U.S.",121.69,31,1
+Greenland,119.72,28,1
+Armenia,118.75,25,1
+Gambia,114.73,27,1
+Iraq,111.73,27,1
+Hungary,111.71,29,1
+Bahrain,108.76,24,1
+North Korea,107.71,29,1
+Brunei,107.66,34,1
+Kuwait,106.75,25,1
+Estonia,105.72,28,1
+Hong Kong,104.76,24,1
+Sri Lanka,103.73,27,1
+Liechtenstein,99.74,26,1
+Anguilla,99.68,32,1
+French Guiana,97.8,20,1
+Faroe Islands,96.76,24,1
+Senegal,95.76,24,1
+Nepal,93.83,17,1
+Tuvalu,93.78,22,1
+Madagascar,92.79,21,1
+Ethiopia,91.77,23,1
+New Zealand,85.77,23,1
+Slovakia,80.77,23,1
+Finland,78.79,21,1
+Tunisia,73.78,22,1
+Afghanistan,67.82,18,1
+Tonga,64.84,16,1
+Saint Vincent and the Grenadines,64.82,18,1
+Lithuania,63.78,22,1
+American Samoa,47.85,15,1
