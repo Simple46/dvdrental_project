@@ -81,6 +81,10 @@ def create_bar_chart(
     Create a reusable Plotly bar chart.
     """
 
+    if data.empty:
+        st.warning("Nothing selected. Choose an option to display this chart.")
+        return
+
     if horizontal:
         fig = px.bar(
             data,
@@ -861,12 +865,12 @@ elif page == "Store & Staff":
             "total_revenue",
             ascending=True
         ),
-        x="total_revenue",
-        y="store_id",
+        x="store_id",
+        y="total_revenue",
         title="Revenue by Store",
-        x_title="Revenue",
-        y_title="Store",
-        horizontal=True
+        x_title="Store",
+        y_title="Revenue",
+        horizontal=False
     )
 
     # --------------------------------------
@@ -1155,6 +1159,9 @@ elif page == "Inventory":
     average_duration = filtered_inventory[
         "avg_rental_duration"
     ].mean()
+
+    if pd.isna(average_duration):
+        average_duration = 0
 
     col1, col2, col3, col4 = st.columns(4)
 
